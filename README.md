@@ -1,6 +1,6 @@
-######  ⚡ AI-Powered Sensor Fault Diagnosis System
+## ⚡ AI-Powered Sensor Fault Diagnosis System
 
-> Detects embedded sensor faults in real-time using Machine Learning and explains them using a Generative AI RAG pipeline.
+ Detects embedded sensor faults in real-time using Machine Learning and explains them using a Generative AI RAG pipeline.
 
 ---
 
